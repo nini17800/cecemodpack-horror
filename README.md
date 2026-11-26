@@ -1,25 +1,25 @@
-# CeceModPack Horror â€” RPG + horreur (Forge 1.20.1)
+# CeceModPack Horror — RPG + horreur (Forge 1.20.1)
 
-Fusion de **CeceModPack** (RPG, Epic Fight, survie, dimensions, quÃªtes MCA) et de **Creepy [Horror]** (stalkers, Mimicked, Minesis, The Knocker, Don't Cryâ€¦).
+Fusion de **CeceModPack** (RPG, Epic Fight, survie, dimensions, quêtes MCA) et de **Creepy [Horror]** (stalkers, Mimicked, Minesis, The Knocker, Don't Cry…).
 
-## Option 1 â€” Launcher CurseForge (recommandÃ©)
+## Option 1 — Launcher CurseForge (recommandé)
 
-1. TÃ©lÃ©charge **[CeceModPack-Horror.zip](https://github.com/nini17800/cecemodpack-horror/releases/latest/download/CeceModPack-Horror.zip)** (ne le dÃ©compresse pas).
-2. CurseForge â†’ Minecraft â†’ **Importer** â†’ choisis le zip.
-3. Clic droit sur le profil â†’ **Options du profil** â†’ **Allocation RAM personnalisÃ©e** â†’ **8000 MB** â†’ **TerminÃ©**.
+1. Télécharge **[CeceModPack-Horror.zip](https://github.com/nini17800/cecemodpack-horror/releases/latest/download/CeceModPack-Horror.zip)** (ne le décompresse pas).
+2. CurseForge → Minecraft → **Importer** → choisis le zip.
+3. Clic droit sur le profil → **Options du profil** → **Allocation RAM personnalisée** → **8000 MB** → **Terminé**.
 4. **Jouer**.
 
-## Option 2 â€” Installateur en un clic (launcher Minecraft officiel)
+## Option 2 — Installateur en un clic (launcher Minecraft officiel)
 
-TÃ©lÃ©charge **[Installer-CeceModPack-Horror.bat](https://github.com/nini17800/cecemodpack-horror/releases/latest/download/Installer-CeceModPack-Horror.bat)** et double-clique dessus (*Informations complÃ©mentaires* â†’ *ExÃ©cuter quand mÃªme* si Windows bloque). Profil **forge 1.20.1-47.4.28**, RAM **-Xmx8G**.
+Télécharge **[Installer-CeceModPack-Horror.bat](https://github.com/nini17800/cecemodpack-horror/releases/latest/download/Installer-CeceModPack-Horror.bat)** et double-clique dessus (*Informations complémentaires* → *Exécuter quand même* si Windows bloque). Profil **forge 1.20.1-47.4.28**, RAM **-Xmx8G**.
 
-## Ã€ savoir
+## À savoir
 
-- Le **micro** est utilisÃ© par certains monstres (Mimicked, Minesis) : configure ton micro dans le menu du chat vocal (touche **V**).
-- Les pseudos au-dessus des tÃªtes sont cachÃ©s : fixez-vous un point de rendez-vous.
+- Le **micro** est utilisé par certains monstres (Mimicked, Minesis) : configure ton micro dans le menu du chat vocal (touche **V**).
+- Les pseudos au-dessus des têtes sont cachés : fixez-vous un point de rendez-vous.
 - On ne peut pas dormir pour passer la nuit.
-- Shaders (Complementary, HOLLOW, Hysteria) et Fresh Animations installÃ©s mais Ã  activer dans les options.
-- Les jars ne sont pas hÃ©bergÃ©s ici : tout est tÃ©lÃ©chargÃ© depuis CurseForge.
+- Shaders (Complementary, HOLLOW, Hysteria) et Fresh Animations installés mais à activer dans les options.
+- Les jars ne sont pas hébergés ici : tout est téléchargé depuis CurseForge.
 
 ## Liste des mods
 
