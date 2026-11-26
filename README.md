@@ -57,7 +57,6 @@ Télécharge **[Installer-CeceModPack-Horror.bat](https://github.com/nini17800/c
 - [Enchantment Descriptions (by DarkhaxDev)](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) — `EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar`
 - [Epic Fight (by maninthe_home)](https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod) — `epic-fight-20.14.17-mc1.20.1-forge.jar`
 - [Epic Fight - Invincible Lib (by P1nero)](https://www.curseforge.com/minecraft/mc-mods/epic-fight-invincible) — `epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar`
-- [Essential Mod (by SparkUniverse_)](https://www.curseforge.com/minecraft/mc-mods/essential-mod) — `Essential_1-5-2_forge_1-20-1.jar`
 - [Falling Leaves (by midar1000)](https://www.curseforge.com/minecraft/mc-mods/falling-leaves) — `Falling leaves 1_20_1-1.0.jar`
 - [FerriteCore ((Neo)Forge) (by malte0811)](https://www.curseforge.com/minecraft/mc-mods/ferritecore) — `ferritecore-6.0.1-forge.jar`
 - [Framework (by MrCrayfish)](https://www.curseforge.com/minecraft/mc-mods/framework) — `framework-forge-1.20.1-0.8.0.jar`

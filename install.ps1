@@ -109,7 +109,6 @@ $files = @(
     @('1585258','8731377','the_parallel-1.0.5-forge-1.20.1.jar','mods'),
     @('1164906','6051131','sounds_of_the_forest-1.0.2-forge-1.20.1.jar','mods'),
     @('549225','7573740','framework-forge-1.20.1-0.8.0.jar','mods'),
-    @('546670','9408319','Essential_1-5-2_forge_1-20-1.jar','mods'),
     @('1158094','9377164','deimos-1.20.1-forge-2.8.jar','mods'),
     @('238086','8020595','kubejs-forge-2001.6.5-build.26.jar','mods'),
     @('1280263','6615082','Hide_Nameplates-1.0.jar','mods'),
@@ -118,7 +117,7 @@ $files = @(
 )
 
 Write-Host ''
-Write-Host "=== CeceModPack Horror - installation (108 fichiers) ===" -ForegroundColor Green
+Write-Host "=== CeceModPack Horror - installation (107 fichiers) ===" -ForegroundColor Green
 Write-Host "Dossier Minecraft : $mc"
 $mods = Join-Path $mc 'mods'
 New-Item -ItemType Directory -Force $mc, (Join-Path $mc 'shaderpacks'), (Join-Path $mc 'resourcepacks') | Out-Null
