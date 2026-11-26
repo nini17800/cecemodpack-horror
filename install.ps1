@@ -105,7 +105,6 @@ $files = @(
     @('594750','5105472','cavedust-2.0.4-1.20.1-forge.jar','mods'),
     @('1040578','8162208','Hysteria-Shaders-Universal-v1.2.2.zip','shaderpacks'),
     @('1566054','9177575','dontcry-1.0.4.jar','mods'),
-    @('467028','8890188','plasmovoice-forge-1.20.1-2.1.17.jar','mods'),
     @('1585258','8731377','the_parallel-1.0.5-forge-1.20.1.jar','mods'),
     @('1164906','6051131','sounds_of_the_forest-1.0.2-forge-1.20.1.jar','mods'),
     @('549225','7573740','framework-forge-1.20.1-0.8.0.jar','mods'),
@@ -117,7 +116,7 @@ $files = @(
 )
 
 Write-Host ''
-Write-Host "=== CeceModPack Horror - installation (107 fichiers) ===" -ForegroundColor Green
+Write-Host "=== CeceModPack Horror - installation (106 fichiers) ===" -ForegroundColor Green
 Write-Host "Dossier Minecraft : $mc"
 $mods = Join-Path $mc 'mods'
 New-Item -ItemType Directory -Force $mc, (Join-Path $mc 'shaderpacks'), (Join-Path $mc 'resourcepacks') | Out-Null

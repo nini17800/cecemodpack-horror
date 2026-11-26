@@ -15,7 +15,7 @@ Télécharge **[Installer-CeceModPack-Horror.bat](https://github.com/nini17800/c
 
 ## À savoir
 
-- Le **micro** est utilisé par certains monstres (Mimicked, Minesis) : configure ton micro dans le menu du chat vocal (touche **V**).
+- Le **micro** est utilisé par certains monstres (Mimicked, Minesis) : configure ton micro dans le menu de Simple Voice Chat (touche **V**).
 - Les pseudos au-dessus des têtes sont cachés : fixez-vous un point de rendez-vous.
 - On ne peut pas dormir pour passer la nuit.
 - Shaders (Complementary, HOLLOW, Hysteria) et Fresh Animations installés mais à activer dans les options.
@@ -99,7 +99,6 @@ Télécharge **[Installer-CeceModPack-Horror.bat](https://github.com/nini17800/c
 - [One Enough Lib (by Flechazo098)](https://www.curseforge.com/minecraft/mc-mods/oelib) — `oelib-forge-1.20.1-0.3.1.jar`
 - [Particle Rain (by PigCart)](https://www.curseforge.com/minecraft/mc-mods/particle-rain) — `particlerain-4.0.4-1.20.1-forge.jar`
 - [Physics Mod (by haubna)](https://www.curseforge.com/minecraft/mc-mods/physics-mod) — `physics-mod-3.0.20-mc-1.20.1-forge.jar`
-- [Plasmo Voice (by Toldoven)](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice) — `plasmovoice-forge-1.20.1-2.1.17.jar`
 - [playerAnimator (by KosmX)](https://www.curseforge.com/minecraft/mc-mods/playeranimator) — `player-animation-lib-forge-1.0.2-rc1+1.20.jar`
 - [PlayerRevive (by CreativeMD)](https://www.curseforge.com/minecraft/mc-mods/playerrevive) — `PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar`
 - [Rhino (by Lat)](https://www.curseforge.com/minecraft/mc-mods/rhino) — `rhino-forge-2001.2.3-build.10.jar`
